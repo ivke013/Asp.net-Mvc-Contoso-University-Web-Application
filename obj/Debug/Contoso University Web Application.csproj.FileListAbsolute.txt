@@ -1,0 +1,52 @@
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\roslyn\csc.exe
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\roslyn\System.Collections.Immutable.dll
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\roslyn\System.Reflection.Metadata.dll
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\roslyn\vbc.exe
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\roslyn\VBCSCompiler.exe
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\roslyn\VBCSCompiler.exe.config
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\Contoso University Web Application.dll.config
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\Contoso University Web Application.dll
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\Contoso University Web Application.pdb
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\Antlr3.Runtime.dll
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\Microsoft.AI.DependencyCollector.dll
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\Microsoft.AI.Web.dll
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\Microsoft.AI.WindowsServer.dll
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\Microsoft.ApplicationInsights.dll
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\Microsoft.Web.Infrastructure.dll
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\Newtonsoft.Json.dll
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\System.Web.Helpers.dll
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\System.Web.Mvc.dll
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\System.Web.Optimization.dll
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\System.Web.Razor.dll
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\System.Web.WebPages.Deployment.dll
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\System.Web.WebPages.dll
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\System.Web.WebPages.Razor.dll
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\WebGrease.dll
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\Microsoft.AI.DependencyCollector.xml
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\Microsoft.AI.Web.xml
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\Microsoft.AI.WindowsServer.xml
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\Microsoft.ApplicationInsights.xml
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\System.Web.Helpers.xml
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\System.Web.Mvc.xml
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\System.Web.Optimization.xml
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\System.Web.Razor.xml
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\System.Web.WebPages.xml
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\System.Web.WebPages.Deployment.xml
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\System.Web.WebPages.Razor.xml
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\Antlr3.Runtime.pdb
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\bin\Newtonsoft.Json.xml
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\obj\Debug\Contoso University Web Application.csprojResolveAssemblyReference.cache
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\obj\Debug\Contoso University Web Application.dll
+E:\Radni\ASP\MVC\Contoso University Web Application\Contoso University Web Application\obj\Debug\Contoso University Web Application.pdb
